@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chameleonbr/node-red-contrib-redis.git"
+    "url": "git+https://github.com/klicktipp/node-red-contrib-redis.git"
   },
   "keywords": [
     "redis",
@@ -21,17 +21,17 @@
     }
   },
   "author": {
-    "name": "Andre Alexandre Avila"
+    "name": "Andre Alexandre Avila, Klick-Tipp Team"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chameleonbr/node-red-contrib-redis/issues"
+    "url": "https://github.com/klicktipp/node-red-contrib-redis/issues"
   },
-  "homepage": "https://github.com/chameleonbr/node-red-contrib-redis#readme",
+  "homepage": "https://github.com/klicktipp/node-red-contrib-redis#readme",
   "maintainers": [
     {
-      "name": "chameleonbr",
-      "email": "chameleonbr@gmail.com"
+      "name": "KlickTipp-Team",
+      "email": "github@team.klicktipp.com"
     }
   ],
   "dependencies": {
